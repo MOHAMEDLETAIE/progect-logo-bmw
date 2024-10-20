@@ -1,0 +1,72 @@
+nav{
+    margin:0;
+    padding: 0px;
+    width: 100%;
+    height:70px;
+    background-color: rgb(201, 21, 21);
+    padding: 0%;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+
+
+
+div{
+    width: 10px;
+    height: 201px;
+    display: flex;
+    gap: 190%;  }
+  
+  
+   
+
+
+    
+
+
+body{ background-color: rgb(0, 0, 0);}
+a{
+    font-size: small;
+   color: rgb(0, 0, 0);
+   
+}
+ .bmw {
+width: 5px;
+height: 200px;
+padding-left: 5%;
+gap: 50PX;
+}
+.aaaa{
+    width: 5px;
+height: 200px;
+padding: 5%;  
+}
+.hhhh{
+    width: 10px;
+height: 200px;
+padding-left: 5%;
+gap: 50px;
+  
+}
+.aaaa{
+  
+        width: 5px;
+    height: 180px;
+    padding-left: 4.5%; 
+    gap: 50px;
+  
+}
+.med{
+    color: red;
+}
+
+   
+  
+
+
+    
+
+   
